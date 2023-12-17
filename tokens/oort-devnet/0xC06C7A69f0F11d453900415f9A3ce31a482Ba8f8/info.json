@@ -1,0 +1,11 @@
+{
+    "name": "USDT",
+    "website": "https://oortech.com",
+    "description": "Decentralized Data Cloud for Generative AI &amp; Data-Driven Solutions.",
+    "explorer": "https://dev-scan.oortech.com/token/0xC06C7A69f0F11d453900415f9A3ce31a482Ba8f8",
+    "type": "ORC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xC06C7A69f0F11d453900415f9A3ce31a482Ba8f8"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "USDC",
+    "website": "https://oortech.com",
+    "description": "Decentralized Data Cloud for Generative AI &amp; Data-Driven Solutions.",
+    "explorer": "https://dev-scan.oortech.com/token/0x116b84585b8D33732A2A7c6900014B4E7734146B",
+    "type": "ORC20",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x116b84585b8D33732A2A7c6900014B4E7734146B"
+}

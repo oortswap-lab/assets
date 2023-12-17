@@ -1,0 +1,11 @@
+{
+    "name": "WOORT",
+    "website": "https://oortech.com",
+    "description": "Decentralized Data Cloud for Generative AI &amp; Data-Driven Solutions.",
+    "explorer": "https://dev-scan.oortech.com/token/0x33b72EEb692A0e4cccb652895c6983e1E16bB92c",
+    "type": "ORC20",
+    "symbol": "WOORT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x33b72EEb692A0e4cccb652895c6983e1E16bB92c"
+}

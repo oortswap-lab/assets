@@ -1,0 +1,11 @@
+{
+    "name": "OORT",
+    "website": "https://oortech.com",
+    "description": "Decentralized Data Cloud for Generative AI &amp; Data-Driven Solutions.",
+    "explorer": "https://dev-scan.oortech.com/tokens",
+    "type": "ORC20",
+    "symbol": "OORT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x"
+}

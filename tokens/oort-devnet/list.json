@@ -1,0 +1,40 @@
+{
+  "name": "OORTSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+  },
+  "keywords": [
+      "tokens",
+      "oortswap"
+  ],
+  "logoURI": "https://assets.oortswap.com/tokens/logo.png",
+  "timestamp": "2021-03-23T14:15:22+0000",
+  "tokens": [
+        {
+            "name": "WOORT",
+            "chainId": 9700,
+            "symbol": "WOORT",
+            "decimals": 18,
+            "address": "0x33b72EEb692A0e4cccb652895c6983e1E16bB92c",
+            "logoURI": "https://assets.ccnswap.org/tokens/oort-devnet/0x33b72EEb692A0e4cccb652895c6983e1E16bB92c/logo.png"
+        },
+        {
+            "name": "USDC",
+            "chainId": 9700,
+            "symbol": "USDC",
+            "decimals": 6,
+            "address": "0x116b84585b8D33732A2A7c6900014B4E7734146B",
+            "logoURI": "https://assets.ccnswap.org/tokens/oort-devnet/0x116b84585b8D33732A2A7c6900014B4E7734146B/logo.png"
+        },
+        {
+            "name": "USDT",
+            "chainId": 9700,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0xC06C7A69f0F11d453900415f9A3ce31a482Ba8f8",
+            "logoURI": "https://assets.ccnswap.org/tokens/oort-devnet/0xC06C7A69f0F11d453900415f9A3ce31a482Ba8f8/logo.png"
+        }
+    ]
+}
