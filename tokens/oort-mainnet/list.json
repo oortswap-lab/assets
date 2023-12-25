@@ -1,0 +1,32 @@
+{
+  "name": "OORTSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+  },
+  "keywords": [
+      "tokens",
+      "oortswap"
+  ],
+  "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/logo.png",
+  "timestamp": "2021-03-23T14:15:22+0000",
+  "tokens": [
+        {
+            "name": "WOORT",
+            "chainId": 970,
+            "symbol": "WOORT",
+            "decimals": 18,
+            "address": "0xB32C5B2b73d7B3Cd2eF1fFB07Aa0fDBa312558F3",
+            "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/0xB32C5B2b73d7B3Cd2eF1fFB07Aa0fDBa312558F3/logo.png"
+        },
+        {
+            "name": "OOST",
+            "chainId": 970,
+            "symbol": "OOST",
+            "decimals": 18,
+            "address": "0xbB9622B0119007a2dE77711bCDA32aDbe8feec0a",
+            "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/0xbB9622B0119007a2dE77711bCDA32aDbe8feec0a/logo.png"
+        }
+    ]
+}
