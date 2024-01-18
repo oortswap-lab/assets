@@ -27,6 +27,14 @@
             "decimals": 18,
             "address": "0xbB9622B0119007a2dE77711bCDA32aDbe8feec0a",
             "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/0xbB9622B0119007a2dE77711bCDA32aDbe8feec0a/logo.png"
+        },
+        {
+            "name": "USDT",
+            "chainId": 970,
+            "symbol": "USDT",
+            "decimals": 18,
+            "address": "0xB80f7Bf6Dfff705729ADDEe32d1eb9CA8d2649C7",
+            "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/0xB80f7Bf6Dfff705729ADDEe32d1eb9CA8d2649C7/logo.png"
         }
     ]
 }

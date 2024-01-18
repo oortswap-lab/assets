@@ -1,0 +1,11 @@
+{
+    "name": "USDT",
+    "website": "https://oortswap.com",
+    "description": "USDT.",
+    "explorer": "https://mainnet-scan.oortech.com/token/0xB80f7Bf6Dfff705729ADDEe32d1eb9CA8d2649C7",
+    "type": "ORC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB80f7Bf6Dfff705729ADDEe32d1eb9CA8d2649C7"
+}
