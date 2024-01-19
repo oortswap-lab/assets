@@ -1,16 +1,16 @@
 {
   "name": "OORTSwap Token List",
   "version": {
-      "major": 0,
+      "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
   },
   "keywords": [
       "tokens",
       "oortswap"
   ],
   "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/logo.png",
-  "timestamp": "2021-03-23T14:15:22+0000",
+  "timestamp": "2024-01-20T14:15:22+0000",
   "tokens": [
         {
             "name": "WOORT",
