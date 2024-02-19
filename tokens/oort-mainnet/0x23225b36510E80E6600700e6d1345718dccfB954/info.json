@@ -1,0 +1,11 @@
+{
+    "name": "CCN",
+    "website": "https://oortswap.com",
+    "description": "CCN.",
+    "explorer": "https://mainnet-scan.oortech.com/token/0x23225b36510E80E6600700e6d1345718dccfB954",
+    "type": "ORC20",
+    "symbol": "CCN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x23225b36510E80E6600700e6d1345718dccfB954"
+}

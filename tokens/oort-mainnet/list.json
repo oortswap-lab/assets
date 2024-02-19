@@ -3,7 +3,7 @@
   "version": {
       "major": 1,
       "minor": 0,
-      "patch": 2
+      "patch": 3
   },
   "keywords": [
       "tokens",
@@ -27,6 +27,14 @@
             "decimals": 18,
             "address": "0xB80f7Bf6Dfff705729ADDEe32d1eb9CA8d2649C7",
             "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/0xB80f7Bf6Dfff705729ADDEe32d1eb9CA8d2649C7/logo.png"
+        },
+        {
+            "name": "CCN",
+            "chainId": 970,
+            "symbol": "CCN",
+            "decimals": 18,
+            "address": "0x23225b36510E80E6600700e6d1345718dccfB954",
+            "logoURI": "https://assets.oortswap.com/tokens/oort-mainnet/0x23225b36510E80E6600700e6d1345718dccfB954/logo.png"
         }
     ]
 }
